@@ -8,7 +8,6 @@ This project aims to detect red flags in images using YOLOv8, a state-of-the-art
 - [Installation](#installation)
 - [Usage](#usage)
 - [Training](#training)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -60,11 +59,4 @@ If you wish to train the YOLOv8 model on your own dataset for red flag detection
 3. **Training**: Train the model using the provided (Red_Flag_Detection_using_YOLOv8.ipynb) notebook file.
 4. **Evaluation**: Evaluate the trained model on a validation set use (Inference red flag.ipynb) notebook file.
 
-## Acknowledgements
-
-This project is built upon the YOLOv8 implementation by Ultralytics LLC. We acknowledge their contribution to the field of object detection and thank them for providing an open-source implementation.
-
-If you find this project useful, consider citing the original YOLOv8 paper:
-
-[YOLOv8: An Improved Object Detection Algorithm](https://example.com)
 
