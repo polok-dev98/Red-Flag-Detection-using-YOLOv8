@@ -22,7 +22,7 @@ Installation
 
 1. Clone the repository:
 ```bash
-https://github.com/Bikas0/Red-Flag-Detection-using-YOLOv8.git
+(https://github.com/polok-dev98/Red-Flag-Detection-using-YOLOv8.git)
 ```
 2. Create a virtual environment
 ```bash
